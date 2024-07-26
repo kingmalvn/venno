@@ -36,7 +36,7 @@ Clone the repository and install packages:
       yarn install --network-concurrency 1
 After you clone above repo click the below 👇 Link to get your session id using pairing code
 
-Levanter:
+    [VENNO](https://qr-hazel-alpha.vercel.app/session):
 
 watch carefully after you get session I'd Edit below script by adding your session I'd and your number and some other necessary things
 
