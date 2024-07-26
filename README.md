@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ VENNO+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MALVIN+KING;RELEASED+DATE+26%2F7%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
+<img src="https://imgur.com/YTCki7B.jpeg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt="kingmalvn :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/kingmalvn/followers"><img title="Followers" src="https://img.shields.io/github/followers/kingmalvn?color=red&style=flat-square"></a>
